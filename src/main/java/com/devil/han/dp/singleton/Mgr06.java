@@ -14,11 +14,11 @@ public class Mgr06 {
 
     public static Mgr06 getInstance() {
         if (INSTANCE == null) {
-            //双重检查
+            //双重检查 DCL
             synchronized (Mgr06.class) {
                 if(INSTANCE == null) {
                     try {
-                        Thread.sleep(1);
+                        Thread.sleep(2);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }

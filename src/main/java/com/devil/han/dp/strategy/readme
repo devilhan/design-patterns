@@ -1,0 +1,9 @@
+策略模式：
+
+    int[]  排序
+
+    double[]  排序
+
+    Comparable  --  java.lang
+
+    Comparator  -- java.util

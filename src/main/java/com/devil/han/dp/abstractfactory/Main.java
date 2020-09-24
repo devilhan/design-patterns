@@ -2,13 +2,13 @@ package com.devil.han.dp.abstractfactory;
 
 public class Main {
     public static void main(String[] args) {
-        AbastractFactory f = new ModernFactory();
-
-        Vehicle c = f.createVehicle();
+        AbastractFactory f1 = new ModernFactory();
+        AbastractFactory f2 = new MagicFactory();
+        Vehicle c = f1.createVehicle();
         c.go();
-        Weapon w = f.createWeapon();
+        Weapon w = f2.createWeapon();
         w.shoot();
-        Food b = f.createFood();
+        Food b = f2.createFood();
         b.printName();
     }
 }

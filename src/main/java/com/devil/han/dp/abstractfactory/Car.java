@@ -3,6 +3,6 @@ package com.devil.han.dp.abstractfactory;
 public class Car extends Vehicle{
 
     public void go() {
-        System.out.println("Car go wuwuwuwuw....");
+        System.out.println("modern Car go wuwuwuwuw....");
     }
 }

@@ -5,7 +5,7 @@ package com.devil.han.dp.singleton;
  */
 public enum Mgr08 {
 
-    INSTANCE;
+    INSTANCE;    //枚举没有构造函数
 
     public void m() {}
 
