@@ -10,7 +10,7 @@ public class TestString {
         System.out.println(s1 == s2); //true
         System.out.println(s1 == s3); //false
         System.out.println(s3 == s4);
-        System.out.println(s3.intern() == s1);
+        System.out.println(s3.intern() == s1);  //intern 内部指向常量池
         System.out.println(s3.intern() == s4.intern());
     }
 }
