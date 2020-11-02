@@ -5,89 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/AdapterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/adapter/VlcPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/BridgePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/DrawAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/GreenCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/BuilderPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/ChickenBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Coke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/ColdDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/MealBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Packing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Pepsi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/VegBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/builder/Wrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/factory/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/PrototypePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/ShapeCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/prototype/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/SingleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/Singleton6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/AndCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaMale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/OrCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassTransformerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassTransformerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/Iterator/v5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/Iterator/v5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/Iterator/v6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/Iterator/v6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/prototype/v2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/prototype/v2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/proxy/v06/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/proxy/v06/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/spring/v2/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/spring/v2/TimeProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app_auto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app_auto.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/app_auto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/app_auto.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/ASM/ClassPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/ASM/ClassPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/ASM/ClassTransformerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/ASM/ClassTransformerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/Iterator/v5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/Iterator/v5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/Iterator/v6/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/Iterator/v6/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Location.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/prototype/v2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/Tank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/TankLogProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/TankLogProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/TankTimeProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/proxy/v06/TankTimeProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/spring/v2/TimeProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/spring/v2/TimeProxy.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,7 +28,88 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#530#531#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Criteria.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Criteria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CriteriaPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CriteriaMale.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaMale.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" selection-start-line="14" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CriteriaSingle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaSingle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndCriteria.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/AndCriteria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrCriteria.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/OrCriteria.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -132,14 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Color.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Red.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Green.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Blue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ColorFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/FactoryProducer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactoryPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/SingleObject.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/singleton/SingletonPatternDemo.java" />
@@ -183,6 +182,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/BridgePatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/DrawAPI.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/bridge/Shape.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Criteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaMale.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaFemale.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaSingle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/AndCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/OrCriteria.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -215,8 +222,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1005" />
-    <option name="y" value="130" />
+    <option name="x" value="696" />
+    <option name="y" value="104" />
     <option name="width" value="1286" />
     <option name="height" value="883" />
   </component>
@@ -272,6 +279,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="runoob" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="runoob" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -337,7 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BridgePatternDemo">
+  <component name="RunManager" selected="Application.CriteriaPatternDemo">
     <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.adapter.AdapterPatternDemo" />
       <module name="DesignPatterns" />
@@ -368,6 +385,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="CriteriaPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.filter.CriteriaPatternDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.devil.runoob.filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.devil.han.dp.spring.v2.Main" />
       <module name="DesignPatterns" />
@@ -388,30 +415,20 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SingletonPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.singleton.SingletonPatternDemo" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <list>
-      <item itemvalue="Application.SingletonPatternDemo" />
       <item itemvalue="Application.BuilderPatternDemo" />
       <item itemvalue="Application.PrototypePatternDemo" />
       <item itemvalue="Application.AdapterPatternDemo" />
       <item itemvalue="Application.BridgePatternDemo" />
+      <item itemvalue="Application.CriteriaPatternDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CriteriaPatternDemo" />
         <item itemvalue="Application.BridgePatternDemo" />
         <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.PrototypePatternDemo" />
         <item itemvalue="Application.BuilderPatternDemo" />
-        <item itemvalue="Application.SingletonPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +452,7 @@
       <workItem from="1602467511369" duration="2851000" />
       <workItem from="1603185370795" duration="626000" />
       <workItem from="1603786510538" duration="2817000" />
-      <workItem from="1604282395504" duration="13916000" />
+      <workItem from="1604282395504" duration="15530000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法">
       <created>1556285498852</created>
@@ -497,10 +514,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82528000" />
+    <option name="totallyTimeSpent" value="84142000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1005" y="130" width="1286" height="883" extended-state="0" />
+    <frame x="696" y="104" width="1286" height="883" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -523,8 +541,8 @@
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.3638889" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32906976" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3888889" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22367346" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3888889" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22367346" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -605,85 +623,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Color.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Red.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Green.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/Blue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ColorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/FactoryProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="docComment;class#FactoryProducer#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/abstractFactory/AbstractFactoryPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1099,6 +1038,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaSingle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/AndCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/OrCriteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaFemale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaMale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Criteria.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
