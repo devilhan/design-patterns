@@ -28,6 +28,7 @@ public class Tank implements Movable {
 
     public static void main(String[] args) {
         new TankTimeProxy().move();
+        new TankLogProxy().move();
     }
 }
 

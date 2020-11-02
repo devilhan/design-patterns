@@ -1,6 +1,7 @@
 package com.devil.han.dp.Iterator.v5;
 
 import java.util.Iterator;
+import java.util.LinkedList;
 
 /**
  * v1:构建一个容器，可以添加对象

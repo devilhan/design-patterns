@@ -11,7 +11,7 @@ import static org.objectweb.asm.Opcodes.*;
 public class ClassTransformerTest {
     public static void main(String[] args) throws Exception {
         ClassReader cr = new ClassReader(
-                ClassPrinter.class.getClassLoader().getResourceAsStream("com/mashibing/dp/ASM/Tank.class"));
+                ClassPrinter.class.getClassLoader().getResourceAsStream("com/devil/han/dp/ASM/Tank.class"));
 
         ClassWriter cw = new ClassWriter(0);
         ClassVisitor cv = new ClassVisitor(ASM4, cw) {
@@ -33,17 +33,17 @@ public class ClassTransformerTest {
         byte[] b2 = cw.toByteArray();
 
         MyClassLoader cl = new MyClassLoader();
-        //Class c = cl.loadClass("com.mashibing.dp.ASM.Tank");
-        cl.loadClass("com.mashibing.dp.ASM.TimeProxy");
-        Class c2 = cl.defineClass("com.mashibing.dp.ASM.Tank", b2);
+        //Class c = cl.loadClass("com.devil.han.dp.ASM.Tank");
+        cl.loadClass("com.devil.han.dp.ASM.TimeProxy");
+        Class c2 = cl.defineClass("com.devil.han.dp.ASM.Tank", b2);
         c2.getConstructor().newInstance();
 
 
         String path = (String)System.getProperties().get("user.dir");
-        File f = new File(path + "/com/mashibing/dp/ASM/");
+        File f = new File(path + "/com/devil/han/dp/ASM/");
         f.mkdirs();
 
-        FileOutputStream fos = new FileOutputStream(new File(path + "/com/mashibing/dp/ASM/Tank_0.class"));
+        FileOutputStream fos = new FileOutputStream(new File(path + "/com/devil/han/dp/ASM/Tank_0.class"));
         fos.write(b2);
         fos.flush();
         fos.close();

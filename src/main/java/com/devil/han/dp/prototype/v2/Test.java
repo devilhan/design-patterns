@@ -14,8 +14,6 @@ public class Test {
         p1.loc.street = "sh";
         System.out.println(p2.loc);
 
-
-
     }
 }
 
