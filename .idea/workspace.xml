@@ -4,54 +4,68 @@
     <bookmark url="file://$PROJECT_DIR$/../tank/tank/src/com/devil/dp/abstrategy/abstrategyFactory/BaseTank.java" description="public abstract void die();" line="30" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Broker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/BuyStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/CommandPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/SellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/CompositePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ChainPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/DecoratorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/RedDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/ShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/FacadePatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/ShapeMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/FlyweightPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/AndExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/InterpreterPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/OrExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/TerminalExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/IteratorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/NameRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/ChatRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/MediatorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/RealImage.java" afterDir="false" />
+    <list default="true" id="bd3f28c2-5c05-45ba-b13d-edfcf255266f" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessDelegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessDelegatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessLookUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/EJBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/JMSService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CoarseGrainedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntityPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/memento/CareTaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/memento/Memento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/memento/MementoPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/memento/Originator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/AbstractCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/CustomFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/RealCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StartState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StopState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/StrategyPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Football.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/TemplatePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartDisplayVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Mouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/VisitorPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassTransformerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/ASM/ClassTransformerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/adapter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/adapter/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/decorator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/devil/han/dp/decorator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/adapter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/adapter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/devil/han/dp/decorator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devil/han/dp/decorator/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,39 +81,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChatRoom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/ChatRoom.java">
+      <file leaf-file-name="DependentObject1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DependentObject2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoarseGrainedObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CoarseGrainedObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <folding>
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding>
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeEntityPatternDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntityPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediatorPatternDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/MediatorPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-              <folding>
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#196#197#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#326#327#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-              </folding>
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -134,57 +189,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaSingle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/AndCriteria.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/OrCriteria.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/CompositePatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/ShapeDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/RedDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/DecoratorPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/ShapeMaker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/FacadePatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Circle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/ShapeFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/FlyweightPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/Image.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/RealImage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyImage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/AbstractLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ConsoleLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ErrorLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/FileLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Order.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Stock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/BuyStock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/SellStock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Broker.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/CommandPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/Expression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/TerminalExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/OrExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/AndExpression.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/InterpreterPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Container.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Iterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/NameIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/NameRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/IteratorPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/ChatRoom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/MediatorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/HexaObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/ObserverPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StartState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StopState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/AbstractCustomer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/RealCustomer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullCustomer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/CustomFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationSubtract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationMultiply.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/StrategyPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Cricket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Football.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/TemplatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Keyboard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Cpmputer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Computer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartDisplayVisitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/VisitorPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/Stuent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/MVCPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/c.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/BusinessService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/EJBService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/JMSService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/BusinessLookUp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/BusinessDelegate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/BusinessDelegate/BusinessDelegatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessDelegatePatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CoarseGrainedObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntityPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -217,10 +272,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="664" />
-    <option name="y" value="199" />
+    <option name="x" value="862" />
+    <option name="y" value="120" />
     <option name="width" value="1059" />
-    <option name="height" value="968" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -283,7 +338,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="runoob" type="462c0819:PsiDirectoryNode" />
-              <item name="mediator" type="462c0819:PsiDirectoryNode" />
+              <item name="compositeEntity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -300,7 +355,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/workspace/DesignPatterns/src/main/java/com/com/devil/runoob/adapter/Mp4Player.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/workspace/DesignPatterns/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject2.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -311,11 +366,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.com.devil.runoob.visitor" />
       <recent name="com.com.devil.runoob.mediator" />
       <recent name="com.com.devil.runoob.iterator" />
       <recent name="com.com.devil.runoob.builder" />
       <recent name="com.mashibing.dp.command" />
-      <recent name="com.mashibing.dp.Iterator.v5" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.mashibing.dp.state.thread" />
@@ -349,43 +404,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MediatorPatternDemo">
-    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.cor.ChainPatternDemo" />
+  <component name="RunManager" selected="Application.CompositeEntityPatternDemo">
+    <configuration name="BusinessDelegatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.businessDelegate.BusinessDelegatePatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.cor.*" />
+          <option name="PATTERN" value="com.com.devil.runoob.businessDelegate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="CommandPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.command.CommandPatternDemo" />
+    <configuration name="CompositeEntityPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.compositeEntity.CompositeEntityPatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.command.*" />
+          <option name="PATTERN" value="com.com.devil.runoob.compositeEntity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InterpreterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.interpreter.InterpreterPatternDemo" />
+    <configuration name="MVCPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.MVC.MVCPatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.interpreter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="IteratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.iterator.IteratorPatternDemo" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.iterator.*" />
+          <option name="PATTERN" value="com.com.devil.runoob.MVC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,30 +445,40 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.mediator.MediatorPatternDemo" />
+    <configuration name="TemplatePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.template.TemplatePatternDemo" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.com.devil.runoob.mediator.*" />
+          <option name="PATTERN" value="com.com.devil.runoob.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="VisitorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.devil.runoob.visitor.VisitorPatternDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.com.devil.runoob.visitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.ChainPatternDemo" />
-      <item itemvalue="Application.CommandPatternDemo" />
-      <item itemvalue="Application.InterpreterPatternDemo" />
-      <item itemvalue="Application.IteratorPatternDemo" />
-      <item itemvalue="Application.MediatorPatternDemo" />
+      <item itemvalue="Application.TemplatePatternDemo" />
+      <item itemvalue="Application.VisitorPatternDemo" />
+      <item itemvalue="Application.MVCPatternDemo" />
+      <item itemvalue="Application.BusinessDelegatePatternDemo" />
+      <item itemvalue="Application.CompositeEntityPatternDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MediatorPatternDemo" />
-        <item itemvalue="Application.IteratorPatternDemo" />
-        <item itemvalue="Application.InterpreterPatternDemo" />
-        <item itemvalue="Application.CommandPatternDemo" />
-        <item itemvalue="Application.ChainPatternDemo" />
+        <item itemvalue="Application.CompositeEntityPatternDemo" />
+        <item itemvalue="Application.BusinessDelegatePatternDemo" />
+        <item itemvalue="Application.MVCPatternDemo" />
+        <item itemvalue="Application.VisitorPatternDemo" />
+        <item itemvalue="Application.TemplatePatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +502,7 @@
       <workItem from="1602467511369" duration="2851000" />
       <workItem from="1603185370795" duration="626000" />
       <workItem from="1603786510538" duration="2817000" />
-      <workItem from="1604282395504" duration="29686000" />
+      <workItem from="1604282395504" duration="39911000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式之责任链，代码写到60%，请大家自己根据视频尝试完成com.mashibing.dp.cor.servlet包下面的servletFilter的写法">
       <created>1556285498852</created>
@@ -509,10 +564,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98298000" />
+    <option name="totallyTimeSpent" value="108523000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="664" y="199" width="1059" height="968" extended-state="0" />
+    <frame x="862" y="120" width="1059" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -534,10 +589,11 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3160855" />
       <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.29440993" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.29295427" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32906976" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.4274809" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.42469135" />
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.2745491" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32880098" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -547,7 +603,6 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="jclasslib" order="0" weight="0.3296636" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.3295838" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Maven" order="3" />
@@ -614,402 +669,47 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaFemale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaMale.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/Criteria.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/filter/CriteriaPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/composite/CompositePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/RedDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/DecoratorPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/ShapeDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/decorator/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/ShapeMaker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/facade/FacadePatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/flyweight/FlyweightPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/RealImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/proxy/ProxyImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ConsoleLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ErrorLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/FileLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/AbstractLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/cor/ChainPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="80" selection-start-line="24" selection-start-column="80" selection-end-line="24" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Stock.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/BinaryObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Order.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/BuyStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="132">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="26" />
           <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/SellStock.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/observer/ObserverPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Broker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#212#219#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1017,112 +717,489 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/CommandPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/OrExpression.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/command/Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/Expression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/AndExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/TerminalExpression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="66">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/interpreter/InterpreterPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StopState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="330">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/NameIterator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/IteratorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StartState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <caret line="12" column="5" selection-start-line="9" selection-start-column="42" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/Iterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/StatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/state/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/AbstractCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/RealCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/CustomFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/nullObject/NullPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationSubtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/strategy/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Cricket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/Football.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/template/TemplatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Keyboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/ComputerPartDisplayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/visitor/VisitorPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/iterator/NameRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/ChatRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/mediator/MediatorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#697#698#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/MVC/MVCPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/EJBService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/JMSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessLookUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessDelegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/businessDelegate/BusinessDelegatePatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CoarseGrainedObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/DependentObject1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+          <folding>
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/com/devil/runoob/compositeEntity/CompositeEntityPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>

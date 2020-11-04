@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 public class Main {
     public static void main(String[] args) throws Exception {
-        FileInputStream fis = new FileInputStream("c:/test.text");
+        FileInputStream fis = new FileInputStream("Client:/test.text");
         InputStreamReader isr = new InputStreamReader(fis);
         BufferedReader br = new BufferedReader(isr);
         String line = br.readLine();

@@ -33,7 +33,7 @@ public class ClassTransformerTest {
         byte[] b2 = cw.toByteArray();
 
         MyClassLoader cl = new MyClassLoader();
-        //Class c = cl.loadClass("com.devil.han.dp.ASM.Tank");
+        //Class Client = cl.loadClass("com.devil.han.dp.ASM.Tank");
         cl.loadClass("com.devil.han.dp.ASM.TimeProxy");
         Class c2 = cl.defineClass("com.devil.han.dp.ASM.Tank", b2);
         c2.getConstructor().newInstance();
